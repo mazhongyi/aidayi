@@ -1,0 +1,578 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		5800B3C82E29054B00ECDCDD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5800B3A92E29054A00ECDCDD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5800B3B02E29054A00ECDCDD;
+			remoteInfo = "swift键盘";
+		};
+		5800B3D22E29054B00ECDCDD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5800B3A92E29054A00ECDCDD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5800B3B02E29054A00ECDCDD;
+			remoteInfo = "swift键盘";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5800B3B12E29054A00ECDCDD /* swift键盘.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "swift键盘.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5800B3C72E29054B00ECDCDD /* swift键盘Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swift键盘Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5800B3D12E29054B00ECDCDD /* swift键盘UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swift键盘UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		5800B3D92E29054B00ECDCDD /* Exceptions for "swift键盘" folder in "swift键盘" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 5800B3B02E29054A00ECDCDD /* swift键盘 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		5800B3B32E29054A00ECDCDD /* swift键盘 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				5800B3D92E29054B00ECDCDD /* Exceptions for "swift键盘" folder in "swift键盘" target */,
+			);
+			path = "swift键盘";
+			sourceTree = "<group>";
+		};
+		5800B3CA2E29054B00ECDCDD /* swift键盘Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "swift键盘Tests";
+			sourceTree = "<group>";
+		};
+		5800B3D42E29054B00ECDCDD /* swift键盘UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "swift键盘UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5800B3AE2E29054A00ECDCDD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5800B3C42E29054B00ECDCDD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5800B3CE2E29054B00ECDCDD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5800B3A82E29054A00ECDCDD = {
+			isa = PBXGroup;
+			children = (
+				5800B3B32E29054A00ECDCDD /* swift键盘 */,
+				5800B3CA2E29054B00ECDCDD /* swift键盘Tests */,
+				5800B3D42E29054B00ECDCDD /* swift键盘UITests */,
+				5800B3B22E29054A00ECDCDD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5800B3B22E29054A00ECDCDD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5800B3B12E29054A00ECDCDD /* swift键盘.app */,
+				5800B3C72E29054B00ECDCDD /* swift键盘Tests.xctest */,
+				5800B3D12E29054B00ECDCDD /* swift键盘UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5800B3B02E29054A00ECDCDD /* swift键盘 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5800B3DA2E29054B00ECDCDD /* Build configuration list for PBXNativeTarget "swift键盘" */;
+			buildPhases = (
+				5800B3AD2E29054A00ECDCDD /* Sources */,
+				5800B3AE2E29054A00ECDCDD /* Frameworks */,
+				5800B3AF2E29054A00ECDCDD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				5800B3B32E29054A00ECDCDD /* swift键盘 */,
+			);
+			name = "swift键盘";
+			packageProductDependencies = (
+			);
+			productName = "swift键盘";
+			productReference = 5800B3B12E29054A00ECDCDD /* swift键盘.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5800B3C62E29054B00ECDCDD /* swift键盘Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5800B3DF2E29054B00ECDCDD /* Build configuration list for PBXNativeTarget "swift键盘Tests" */;
+			buildPhases = (
+				5800B3C32E29054B00ECDCDD /* Sources */,
+				5800B3C42E29054B00ECDCDD /* Frameworks */,
+				5800B3C52E29054B00ECDCDD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5800B3C92E29054B00ECDCDD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				5800B3CA2E29054B00ECDCDD /* swift键盘Tests */,
+			);
+			name = "swift键盘Tests";
+			packageProductDependencies = (
+			);
+			productName = "swift键盘Tests";
+			productReference = 5800B3C72E29054B00ECDCDD /* swift键盘Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		5800B3D02E29054B00ECDCDD /* swift键盘UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5800B3E22E29054B00ECDCDD /* Build configuration list for PBXNativeTarget "swift键盘UITests" */;
+			buildPhases = (
+				5800B3CD2E29054B00ECDCDD /* Sources */,
+				5800B3CE2E29054B00ECDCDD /* Frameworks */,
+				5800B3CF2E29054B00ECDCDD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5800B3D32E29054B00ECDCDD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				5800B3D42E29054B00ECDCDD /* swift键盘UITests */,
+			);
+			name = "swift键盘UITests";
+			packageProductDependencies = (
+			);
+			productName = "swift键盘UITests";
+			productReference = 5800B3D12E29054B00ECDCDD /* swift键盘UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5800B3A92E29054A00ECDCDD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					5800B3B02E29054A00ECDCDD = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					5800B3C62E29054B00ECDCDD = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 5800B3B02E29054A00ECDCDD;
+					};
+					5800B3D02E29054B00ECDCDD = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 5800B3B02E29054A00ECDCDD;
+					};
+				};
+			};
+			buildConfigurationList = 5800B3AC2E29054A00ECDCDD /* Build configuration list for PBXProject "swift键盘" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5800B3A82E29054A00ECDCDD;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 5800B3B22E29054A00ECDCDD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5800B3B02E29054A00ECDCDD /* swift键盘 */,
+				5800B3C62E29054B00ECDCDD /* swift键盘Tests */,
+				5800B3D02E29054B00ECDCDD /* swift键盘UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5800B3AF2E29054A00ECDCDD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5800B3C52E29054B00ECDCDD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5800B3CF2E29054B00ECDCDD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5800B3AD2E29054A00ECDCDD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5800B3C32E29054B00ECDCDD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5800B3CD2E29054B00ECDCDD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5800B3C92E29054B00ECDCDD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5800B3B02E29054A00ECDCDD /* swift键盘 */;
+			targetProxy = 5800B3C82E29054B00ECDCDD /* PBXContainerItemProxy */;
+		};
+		5800B3D32E29054B00ECDCDD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5800B3B02E29054A00ECDCDD /* swift键盘 */;
+			targetProxy = 5800B3D22E29054B00ECDCDD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		5800B3DB2E29054B00ECDCDD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = HRQKKGPM99;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "swift键盘/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dongao.app.cloudclassStudyHD;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = CloudClassHD_dev;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5800B3DC2E29054B00ECDCDD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = HRQKKGPM99;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "swift键盘/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.dongao.app.cloudclassStudyHD;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = CloudClassHD_dev;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		5800B3DD2E29054B00ECDCDD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5800B3DE2E29054B00ECDCDD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5800B3E02E29054B00ECDCDD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "www.bidu.swift--Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swift键盘.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/swift键盘";
+			};
+			name = Debug;
+		};
+		5800B3E12E29054B00ECDCDD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "www.bidu.swift--Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/swift键盘.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/swift键盘";
+			};
+			name = Release;
+		};
+		5800B3E32E29054B00ECDCDD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "www.bidu.swift--UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "swift键盘";
+			};
+			name = Debug;
+		};
+		5800B3E42E29054B00ECDCDD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "www.bidu.swift--UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "swift键盘";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5800B3AC2E29054A00ECDCDD /* Build configuration list for PBXProject "swift键盘" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5800B3DD2E29054B00ECDCDD /* Debug */,
+				5800B3DE2E29054B00ECDCDD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5800B3DA2E29054B00ECDCDD /* Build configuration list for PBXNativeTarget "swift键盘" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5800B3DB2E29054B00ECDCDD /* Debug */,
+				5800B3DC2E29054B00ECDCDD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5800B3DF2E29054B00ECDCDD /* Build configuration list for PBXNativeTarget "swift键盘Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5800B3E02E29054B00ECDCDD /* Debug */,
+				5800B3E12E29054B00ECDCDD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5800B3E22E29054B00ECDCDD /* Build configuration list for PBXNativeTarget "swift键盘UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5800B3E32E29054B00ECDCDD /* Debug */,
+				5800B3E42E29054B00ECDCDD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5800B3A92E29054A00ECDCDD /* Project object */;
+}
